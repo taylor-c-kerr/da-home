@@ -1,4 +1,4 @@
-# vue-practice
+# brandvarg-home
 
 ## Project setup
 ```
